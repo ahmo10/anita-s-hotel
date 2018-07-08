@@ -41,6 +41,44 @@ h1 span{
 .happyTimeCol{
   background-color: tomato;
 }
+.effectBreakfast:hover h1{
+  color: black;
+}
+.effectBreakfast:hover{
+  opacity: 0.6;
+}
+.effectBreakfast h1{
+  text-align:center;
+  position: relative;
+  top: -150px;
+  color: white;
+}
+.effectLunch:hover h1{
+  color: black;
+}
+.effectLunch:hover{
+  opacity: 0.6;
+
+}
+.effectDinner:hover h1{
+  color: black;
+}
+.effectDinner:hover{
+  opacity: 0.6;
+}
+
+.effectLunch h1{
+  text-align:center;
+  position: relative;
+  top: -150px;
+  color: white;
+}
+.effectDinner h1{
+  text-align:center;
+  position: relative;
+  top: -150px;
+  color: white;
+}
 .wholeBoxModel{
   height: 570px;
   position: relative;
