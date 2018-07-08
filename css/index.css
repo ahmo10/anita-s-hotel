@@ -3,14 +3,13 @@ body{
   padding: 0px;
   max-width: 100%;
   overflow-y: scroll;
-  overflow-x:hidden;
+  overflow-x: hidden;
 
 }
 .landingPage{
   background-image: url("../img/backgrounds/landing.jpg");
   background-size: cover;
   height: 750px;
-  background-color: red;
 }
 .landingImg img{
   position: absolute;
@@ -80,29 +79,24 @@ h1 span{
   color: white;
 }
 .wholeBoxModel{
-  height: 570px;
+  height: 1200px;
   position: relative;
   top: 200px;
-  left: 300px;
-}
-.fBoxModel{
-  height: 100px;
-  width: 300px;
+  left: 200px;
 }
 .fBoxModelText{
   position: relative;
-  left: 600px;
-  top: -100px;
-}
-.boxModel2{
-  margin-top: 200px;
-}
-.sBoxModelText{
-
+  top: -400px;
+  left: 700px;
 }
 .sBoxModelImg{
   position: relative;
+  top: -400px;
   left: 900px;
-  top: -300px;
   width: 950px;
+}
+.burgurSection{
+  height: 500px;
+  background-image: url("../img/backgrounds/foodsBg.jpg");
+  background-size: cover;
 }
