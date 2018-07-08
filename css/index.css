@@ -6,7 +6,7 @@ body{
 .landingPage{
   background-image: url("../img/backgrounds/landing.jpg");
   background-size: cover;
-  height: 800px;
+  height: 750px;
   background-color: red;
 }
 .landingImg img{
@@ -17,6 +17,41 @@ body{
 .landingImg h1{
   position: absolute;
   top: 600px;
-  left: 30%;
+  left: 40%;
+  color: white;
 
+}
+h1 span{
+  font-size: 50px;
+}
+.happyTime{
+  height:125px;
+}
+.happyHour{
+  height: 250px;
+  width: 455px;
+}
+.happyHour img {
+  height: 250px;
+  width: 470px;
+}
+.happyTimeCol{
+  background-color: tomato;
+}
+.boxModel{
+  height: 500px;
+  margin-top: 150px;
+  margin-left: 300px;
+}
+.boxModel img{
+  width: 500px;
+  height: 180px;
+}
+.sBoxModel{
+  float: right;
+  position: relative;
+  top: -300px;
+}
+.btn-success{
+  background-color:clear
 }
