@@ -1,6 +1,9 @@
 body{
   margin: 0px;
   padding: 0px;
+  max-width: 100%;
+  overflow-y: scroll;
+  overflow-x:hidden;
 
 }
 .landingPage{
@@ -38,20 +41,30 @@ h1 span{
 .happyTimeCol{
   background-color: tomato;
 }
-.boxModel{
-  height: 500px;
-  margin-top: 150px;
-  margin-left: 300px;
-}
-.boxModel img{
-  width: 500px;
-  height: 180px;
-}
-.sBoxModel{
-  float: right;
+.wholeBoxModel{
+  height: 570px;
   position: relative;
-  top: -300px;
+  top: 200px;
+  left: 300px;
 }
-.btn-success{
-  background-color:clear
+.fBoxModel{
+  height: 100px;
+  width: 300px;
+}
+.fBoxModelText{
+  position: relative;
+  left: 600px;
+  top: -100px;
+}
+.boxModel2{
+  margin-top: 200px;
+}
+.sBoxModelText{
+
+}
+.sBoxModelImg{
+  position: relative;
+  left: 900px;
+  top: -300px;
+  width: 950px;
 }
