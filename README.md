@@ -13,5 +13,5 @@ you require a browser preferably chrome to run this site.You will require a text
 ##LINK TO LIVE SITE
 https://ahmo10.github.io/anita-s-hotel/
 ##CONTACT DETAILS
-in case of any problems when accesing my site feel free to contact me on billowbashir@gmail.com your feedback will be highly appreciated
+in case of any problems when accesing my site feel free to contact me on ahmo.somern@gmail.com your feedback will be highly appreciated
 ###You can have access to this website by cloning using github git clone https://github.com/ahmo10/anita-s-hotel.git .Navigate through the folder and open index.html using your favourite browser
